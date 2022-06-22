@@ -1,6 +1,20 @@
-Welcome to my bricks! 👋
+<p align="center">
+<img src="https://raw.githubusercontent.com/felangel/mason/master/assets/mason_full.png" height="125" alt="mason logo" />
+</p>
 
-Here's how I created my first brick (`model_freezed_json`):
+<p align="center">
+<a href="https://github.com/felangel/mason/actions"><img src="https://github.com/felangel/mason/workflows/mason/badge.svg" alt="mason"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-purple.svg" alt="License: MIT"></a>
+</p>
+
+<p align="center">
+A collection of bricks that helps developers to generate files with a Dart template generator called mason.
+</p>
+
+---
+
+Interested in creating your own brick? Here's how I created my first brick (`model_freezed_json`):
+
 1. Install mason_cli with `dart pub global activate mason_cli`
 2. Create a directory called `bricks`
 3. In the directory, run `mason init`
